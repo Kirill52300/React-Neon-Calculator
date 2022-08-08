@@ -1,6 +1,6 @@
 # React Neon Calculator 
-]Created with *create-react-app*
-Simple react calculator  
+]Created with *create-react-app*.\
+Simple react calculator  with hooks
 # Install
 Clone the repository.\
 `yarn install`\
