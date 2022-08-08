@@ -1,0 +1,29 @@
+.sidebar {
+    display: flex;
+    align-items: center;
+    justify-content:first baseline;
+    flex-direction: column;
+    width: 30vw;
+    max-width: 30vw;
+    height: 100vh;
+    background-color: #6210a1;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.sidebar>h1 {
+    color: #201064;
+    background-color: #6210a1;  
+    min-height: 6%;
+   
+	    
+}
+
+.sidebar>hr {
+    color: #9971da;
+    width: 100%;
+    background-color: #9971da;
+    border-bottom: 1px solid #9971da;
+    min-height: 10px;
+
+}

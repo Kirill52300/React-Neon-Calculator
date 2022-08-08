@@ -1,0 +1,12 @@
+.sidebaritem {
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 5%;
+    background-color: #87a8d1;
+    color:#cf20ac;
+    font-size: 20px;
+    
+}

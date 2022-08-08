@@ -1,0 +1,17 @@
+.Calcinput {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 3vh;
+    width: 95%;
+    height: 10%;
+    border: 1vmax solid rgb(73, 24, 65);
+    font-weight: 700;
+    font: bold;
+    font-size: 200%;
+    border-radius: 20px;
+    color: #670bde;
+    outline: 0;
+    background-color: №#b8c6a3;
+
+}

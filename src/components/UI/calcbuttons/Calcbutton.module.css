@@ -1,0 +1,22 @@
+.Calcbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+    color: #f6dcb8;
+    background-color: blueviolet;
+    font-size: 150%;
+    background: linear-gradient(to top right, rgba(117, 117, 117, 1) 0%, rgb(220, 36, 208) 90%);
+    box-shadow: 1px 1px 30px rgb(61, 68, 201);
+}
+
+.Calcbutton:hover {
+    background-color: azure;
+}
+
+.Calcbutton:active {
+    background-color: cornflowerblue;
+    box-shadow: 0 10px rgb(11, 10, 10);
+
+}
