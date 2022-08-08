@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Neon-Calculator/static/css/main.8612f7e6.css",
-    "main.js": "/React-Neon-Calculator/static/js/main.2f39aa1e.js",
+    "main.js": "/React-Neon-Calculator/static/js/main.ec27955d.js",
     "index.html": "/React-Neon-Calculator/index.html",
     "main.8612f7e6.css.map": "/React-Neon-Calculator/static/css/main.8612f7e6.css.map",
-    "main.2f39aa1e.js.map": "/React-Neon-Calculator/static/js/main.2f39aa1e.js.map"
+    "main.ec27955d.js.map": "/React-Neon-Calculator/static/js/main.ec27955d.js.map"
   },
   "entrypoints": [
     "static/css/main.8612f7e6.css",
-    "static/js/main.2f39aa1e.js"
+    "static/js/main.ec27955d.js"
   ]
 }
